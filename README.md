@@ -1,11 +1,12 @@
 # Chess App
 An Android application as part of Software Engineering project
 
-Members:
+### Members:
 - Gurpreet
 - Lucky
 - Lokesh
 
+### Problem Statement
 
 To develop a chess app to enable user to play a game of chess with computer or another Player. The following functions will be available in the application:
 
